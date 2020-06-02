@@ -1,1 +1,1 @@
-This iis nepsmo's first git project!
+This is nepsmo's first git project!
